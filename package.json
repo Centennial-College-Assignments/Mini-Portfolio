@@ -1,0 +1,14 @@
+{
+  "name": "comp125-m2020-lesson5",
+  "version": "1.0.0",
+  "description": "Mini Project",
+  "main": "index.js",
+  "author": "Devesh Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
